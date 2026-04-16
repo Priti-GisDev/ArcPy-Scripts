@@ -17,6 +17,7 @@ This repository contains a collection of professional-grade Python scripts and a
 - **Logging:** Integrated custom logging classes for process audit trails.
 - **Error Handling:** Robust `try-except` blocks to handle spatial topology errors.
 
+
 ## 📬 Contact & Portfolio
-- **Email:** pritychoudhari@gmail.com# ArcPy-Scripts
+- **Email:** pritychoudhari@gmail.com#   
 "A collection of automated GIS workflows and geoprocessing scripts built using ArcPy for ArcGIS Pro. Focuses on spatial data engineering, ETL pipelines, and performance optimization in geospatial projects."
